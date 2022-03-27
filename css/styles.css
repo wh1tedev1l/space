@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    background-color: black !important;
+}
+
+img{
+    width: 100%;
+}
+
+#top{
+    height: 0px;
+}
+
+.section{
+    position: absolute;
+    top: 15rem;
+    width: 100%;
+}
+
+.navbar{
+    padding: 4rem 4rem !important;
+}
+
+.navbar-brand{
+    font-size: 3rem !important;
+    margin-left: 2  rem;
+}
+
+.nav-link{
+    margin-left: 1rem;
+    padding-right: 2rem !important;
+    font-size: 1.725rem;
+}
+
+.brief{
+    color: white;
+    padding: 4rem;
+    margin: 0;
+}
+
+.blackhole{
+    padding: 3rem;
+}
+
+.text{
+    color: white;
+    padding: 2rem;
+    margin: 0;
+}
+
+.row{
+    margin: 0 !important;
+}
